@@ -6,4 +6,4 @@ Once you clone this repo, make sure to run "npm i" to install dependencies
 
 ## Running Tests with Jest
 
-Use "npm jest" to run the alphabet test. The result of the test will be displayed in the command line.
+Use "npm test" to run the alphabet test. The result of the test will be displayed in the command line.
